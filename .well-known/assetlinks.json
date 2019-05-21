@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.tarja.myurlhandling",
+    "sha256_cert_fingerprints":
+    ["49:C4:56:91:56:D8:E1:1F:C7:22:0A:BC:13:37:0D:9B:14:5F:53:7E:81:2D:34:13:B4:F3:C6:86:16:33:6F:13"]
+  }
+}]
